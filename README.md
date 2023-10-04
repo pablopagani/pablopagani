@@ -4,3 +4,15 @@ Best practices acquired from projects executed all around the globe. Innovation,
 
 - 👀 I’m interested in ciberecurity projects, scripting and web development.
 - 📫 Reach me at: https://twitter.com/PaganiPablo
+
+*Code projects*
+- AWS Security Hub CSV report generation
+- AWS Security Hub PCI standard & Controls Management on Organization 
+- Prowler contributor
+
+*Publications*
+-
+- ITIL
+
+*Public Speaking*
+- AWS re:Inforce 2022 Control Design

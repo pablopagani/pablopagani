@@ -6,12 +6,16 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - 📫 Reach me at: https://twitter.com/PaganiPablo
 
 *Code projects*
-- AWS Security Hub CSV report generation
+- [AWS Security Hub CSV report generation]([https://pages.github.com/](https://github.com/pablopagani/aws-security-hub-summary-email)).
 - AWS Security Hub PCI standard & Controls Management on Organization 
 - Prowler contributor
 
+*Workshops*
+
+- [Building Prowler into a QuickSight powered AWS Security Dashboard](https://catalog.us-east-1.prod.workshops.aws/workshops/b1cdc52b-eb11-44ed-8dc8-9dfe5fb254f5/en-US)
+- 
 *Publications*
--
+- [Enable Security Hub PCI DSS standard across your organization and disable specific controls](https://aws.amazon.com/blogs/security/enable-security-hub-pci-dss-standard-across-your-organization-and-disable-specific-controls/)
 - ITIL
 
 *Public Speaking*

@@ -11,6 +11,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 
 *Code projects contributions*
 - [Prowler contributor](https://github.com/prowler-cloud/prowler)
+- [AWS WAF Operations Dashboards](https://github.com/aws-samples/aws-waf-ops-dashboards/tree/main)
 - small Others ...
 
 *Workshops authored*

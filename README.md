@@ -5,18 +5,24 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - 👀 I’m interested in ciberecurity projects, scripting and web development.
 - 📫 Reach me at: https://twitter.com/PaganiPablo
 
-*Code projects*
+*Own Code projects*
 - [AWS Security Hub CSV report generation]([https://pages.github.com/](https://github.com/pablopagani/aws-security-hub-summary-email)).
-- AWS Security Hub PCI standard & Controls Management on Organization 
-- Prowler contributor
+- [AWS Security Hub PCI standard & Controls Management on Organization] (https://awsiammedia.s3.amazonaws.com/public/sample/987-Security-Hub-PCI-DSS-standard/SH-PCI-enabler.yaml)
 
-*Workshops*
+*Code projects contributions*
+- [Prowler contributor] (https://github.com/prowler-cloud/prowler)
 
-- [Building Prowler into a QuickSight powered AWS Security Dashboard](https://catalog.us-east-1.prod.workshops.aws/workshops/b1cdc52b-eb11-44ed-8dc8-9dfe5fb254f5/en-US)
-- 
+*Workshops authored*
+- [Building a Cloud Security Posture Dashboard with Amazon QuickSight](https://catalog.workshops.aws/securitydashboard/en-US)
+- [Building Prowler into a QuickSight powered AWS Security Dashboard](https://quicksight-security-dashboard.workshop.aws/)
+- [Automating Incident Response Workshop](https://catalog.workshops.aws/auto-incident-response)
+
 *Publications*
-- [Enable Security Hub PCI DSS standard across your organization and disable specific controls](https://aws.amazon.com/blogs/security/enable-security-hub-pci-dss-standard-across-your-organization-and-disable-specific-controls/)
-- ITIL
+- [AWS Security Blog: Download AWS Security Hub CSV report](https://aws.amazon.com/blogs/security/download-aws-security-hub-csv-report/)
+- [AWS Security Blog: Enable Security Hub PCI DSS standard across your organization and disable specific controls](https://aws.amazon.com/blogs/security/enable-security-hub-pci-dss-standard-across-your-organization-and-disable-specific-controls/)
+- [Fundamentos ITIL](https://uai.edu.ar/ciiti/2018/libro/programa04-bsas-proyecto2.asp)
 
 *Public Speaking*
-- AWS re:Inforce 2022 Control Design
+- AWS re:Inforce 2023-Executive Security Simulation
+- [AWS re:Inforce 2022-Building guardrails to meet your custom control requirements](https://d1.awsstatic.com/events/aws-reinforce-2022/GRC471_Building-guardrails-to-meet-your-custom-control-requirements.pdf)
+- [Overview sobre IAM Identity Center y Roles Anywhere](https://www.youtube.com/watch?v=X8zlJ6QiGGQ)

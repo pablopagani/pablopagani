@@ -11,6 +11,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 
 *Code projects contributions*
 - [Prowler contributor] (https://github.com/prowler-cloud/prowler)
+- + small Others ...
 
 *Workshops authored*
 - [Building a Cloud Security Posture Dashboard with Amazon QuickSight](https://catalog.workshops.aws/securitydashboard/en-US)

@@ -6,13 +6,14 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - 📫 Reach me at: https://twitter.com/PaganiPablo
 
 *Own Code projects*
-- [AWS Security Hub CSV report generation](https://github.com/pablopagani/aws-security-hub-summary-email)
+- [Setup a Recurring AWS Security Hub CSV Full Report with email notification](https://github.com/pablopagani/aws-security-hub-summary-email)
 - [AWS Security Hub PCI standard & Controls Management on Organization](https://awsiammedia.s3.amazonaws.com/public/sample/987-Security-Hub-PCI-DSS-standard/SH-PCI-enabler.yaml)
 
 *Code projects contributions*
 - [Prowler contributor](https://github.com/prowler-cloud/prowler)
 - [AWS WAF Operations Dashboards](https://github.com/aws-samples/aws-waf-ops-dashboards/tree/main)
-- small Others ...
+- [AWS Security hub summary email](https://github.com/aws-samples/aws-security-hub-summary-email)
+- Others ...
 
 *Workshops authored*
 - [Building a Cloud Security Posture Dashboard with Amazon QuickSight](https://catalog.workshops.aws/securitydashboard/en-US)

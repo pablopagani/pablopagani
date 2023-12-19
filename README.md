@@ -8,6 +8,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 *Own Code projects*
 - [Setup a Recurring AWS Security Hub CSV Full Report with email notification](https://github.com/pablopagani/aws-security-hub-summary-email)
 - [AWS Security Hub PCI standard & Controls Management on Organization](https://awsiammedia.s3.amazonaws.com/public/sample/987-Security-Hub-PCI-DSS-standard/SH-PCI-enabler.yaml)
+- Others not public ...
 
 *Code projects contributions*
 - [Prowler](https://github.com/prowler-cloud/prowler)

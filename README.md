@@ -10,7 +10,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [AWS Security Hub PCI standard & Controls Management on Organization](https://awsiammedia.s3.amazonaws.com/public/sample/987-Security-Hub-PCI-DSS-standard/SH-PCI-enabler.yaml)
 
 *Code projects contributions*
-- [Prowler contributor](https://github.com/prowler-cloud/prowler)
+- [Prowler](https://github.com/prowler-cloud/prowler)
 - [AWS WAF Operations Dashboards](https://github.com/aws-samples/aws-waf-ops-dashboards/tree/main)
 - [AWS Security hub summary email](https://github.com/aws-samples/aws-security-hub-summary-email)
 - Others ...

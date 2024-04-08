@@ -25,6 +25,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [AWS Security Blog: Download AWS Security Hub CSV report](https://aws.amazon.com/blogs/security/download-aws-security-hub-csv-report/)
 - [AWS Security Blog: Enable Security Hub PCI DSS standard across your organization and disable specific controls](https://aws.amazon.com/blogs/security/enable-security-hub-pci-dss-standard-across-your-organization-and-disable-specific-controls/)
 - [Fundamentos ITIL](https://uai.edu.ar/ciiti/2018/libro/programa04-bsas-proyecto2.asp)
+- [Redes & Seguridad, (Booklet), RedUSERS, 2013, ISBN: 978-987-1857-78-4](https://www.studocu.com/es-mx/document/universidad-autonoma-de-occidente-mexico/seguridad-en-redes/tecnico-en-redes-y-seguridad-12-seguridad-fisica-de-la-red-users/22621874)
 
 *Public Speaking*
 - AWS re:Inforce 2023-Executive Security Simulation

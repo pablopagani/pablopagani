@@ -5,10 +5,14 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - 👀 I’m interested in cybersecurity projects, scripting and web development.
 - 📫 Reach me at: https://twitter.com/PaganiPablo
 
-*Own Code projects*
+*Own Public Code projects*
 - [Setup a Recurring AWS Security Hub CSV Full Report with email notification](https://github.com/aws-samples/aws-security-hub-full-report-email/)
 - [AWS Security Hub PCI standard & Controls Management on Organization](https://awsiammedia.s3.amazonaws.com/public/sample/987-Security-Hub-PCI-DSS-standard/SH-PCI-enabler.yaml)
-- Others not public ...
+
+*Own Private Code projects*
+- IT Self Service solution (Web) ~500 users
+- Inovicing System (Client-Server) - 2 clients
+- IT Inventory solution (Web) - 12 office branches
 
 *Code projects contributions*
 - [Prowler](https://github.com/prowler-cloud/prowler)

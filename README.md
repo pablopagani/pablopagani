@@ -2,7 +2,7 @@ I’m @pablopagani an IT leader with more than 15 years’ experience in differe
 Combining passion, vision and execution, I have proven track record of success delivering customer satisfaction, improving quality and lowering costs of operation. 
 Best practices acquired from projects executed all around the globe. Innovation, efficiency and team building are fundamental elements of my leadership style.
 
-- 👀 I’m interested in cyberecurity projects, scripting and web development.
+- 👀 I’m interested in cybersecurity projects, scripting and web development.
 - 📫 Reach me at: https://twitter.com/PaganiPablo
 
 *Own Code projects*

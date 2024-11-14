@@ -15,6 +15,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - IT Inventory solution (Web) - 12 office branches
 
 *Code projects contributions*
+- [Hardeneks](https://github.com/aws-samples/hardeneks)
 - [Prowler](https://github.com/prowler-cloud/prowler)
 - [AWS WAF Operations Dashboards](https://github.com/aws-samples/aws-waf-ops-dashboards/tree/main)
 - [AWS Security hub summary email](https://github.com/aws-samples/aws-security-hub-summary-email)

@@ -25,6 +25,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [Building a Cloud Security Posture Dashboard with Amazon QuickSight](https://catalog.workshops.aws/securitydashboard/en-US)
 - [Building Prowler into a QuickSight powered AWS Security Dashboard](https://quicksight-security-dashboard.workshop.aws/)
 - [Automating Incident Response Workshop](https://catalog.workshops.aws/auto-incident-response)
+- [AWS Control Design - launched at re:Inforce 2022](https://catalog.workshops.aws/control-design/en-US)
 
 *Publications*
 - [AWS Security Blog: Download AWS Security Hub CSV report](https://aws.amazon.com/blogs/security/download-aws-security-hub-csv-report/)

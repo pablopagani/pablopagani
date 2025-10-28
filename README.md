@@ -3,7 +3,7 @@ Combining passion, vision and hands-on execution, I have proven track record of 
 Best practices acquired from projects executed all around the globe. Innovation, efficiency and team building are fundamental elements of my leadership style.
 
 - 👀 I’m interested in AI, Containers, Cybersecurity projects, scripting and web development.
-- 📫 Reach me at: https://x.com/PaganiPablo
+- 📫 Reach me at: https://x.com/PaganiPablo or https://www.linkedin.com/in/pablopagani/
 
 *Own Public Code projects*
 - [Setup a Recurring AWS Security Hub CSV Full Report with email notification](https://github.com/aws-samples/aws-security-hub-full-report-email/)

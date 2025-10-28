@@ -1,18 +1,13 @@
-I’m @pablopagani an IT leader with more than 15 years’ experience in different roles and industries focused to deliver best in class business outcomes for some of the world’s largest enterprises.
-Combining passion, vision and execution, I have proven track record of success delivering customer satisfaction, improving quality and lowering costs of operation. 
+I’m @pablopagani an IT leader with more than 20 years’ experience in different roles and industries focused to deliver best in class business outcomes for small to medium to some of the world’s largest enterprises.
+Combining passion, vision and hands-on execution, I have proven track record of success delivering customer satisfaction, improving quality and lowering costs of operation. 
 Best practices acquired from projects executed all around the globe. Innovation, efficiency and team building are fundamental elements of my leadership style.
 
-- 👀 I’m interested in cybersecurity projects, scripting and web development.
-- 📫 Reach me at: https://twitter.com/PaganiPablo
+- 👀 I’m interested in AI, Containers, Cybersecurity projects, scripting and web development.
+- 📫 Reach me at: https://x.com/PaganiPablo
 
 *Own Public Code projects*
 - [Setup a Recurring AWS Security Hub CSV Full Report with email notification](https://github.com/aws-samples/aws-security-hub-full-report-email/)
 - [AWS Security Hub PCI standard & Controls Management on Organization](https://awsiammedia.s3.amazonaws.com/public/sample/987-Security-Hub-PCI-DSS-standard/SH-PCI-enabler.yaml)
-
-*Own Private Code projects*
-- IT Self Service solution (Web) ~500 users
-- Inovicing System (Client-Server) - 2 clients
-- IT Inventory solution (Web) - 12 office branches
 
 *Code projects contributions*
 - [Hardeneks](https://github.com/aws-samples/hardeneks)
@@ -38,3 +33,8 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [AWS re:Inforce 2022-Building guardrails to meet your custom control requirements](https://d1.awsstatic.com/events/aws-reinforce-2022/GRC471_Building-guardrails-to-meet-your-custom-control-requirements.pdf)
 - [AWS re:Inforce 2021-Building Prowler into a QuickSight powered AWS Security Dashboard](https://catalog.us-east-1.prod.workshops.aws/workshops/b1cdc52b-eb11-44ed-8dc8-9dfe5fb254f5/en-US)
 - [Overview sobre IAM Identity Center y Roles Anywhere](https://www.youtube.com/watch?v=X8zlJ6QiGGQ)
+
+*Own Private Code projects*
+- IT Self Service solution (Web) ~500 users
+- Inovicing System (Client-Server) - 2 clients
+- IT Inventory solution (Web) - 12 office branches

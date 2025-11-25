@@ -29,13 +29,12 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [Redes & Seguridad, (Booklet), RedUSERS, 2013, ISBN: 978-987-1857-78-4](https://www.studocu.com/es-mx/document/universidad-autonoma-de-occidente-mexico/seguridad-en-redes/tecnico-en-redes-y-seguridad-12-seguridad-fisica-de-la-red-users/22621874)
 
 *Public Speaking*
-- [Transforma tu flujo de desarrollo con Kiro: Desarrollo Basado en Especificaciones](https://nerdearla.es/agenda/transforma-tu-flujo-de-desarrollo-con-kiro-desarrollo-basado-en-especificaciones/)
+- [Transforma tu flujo de desarrollo con Kiro: Desarrollo Basado en Especificaciones](https://www.youtube.com/watch?v=PjU0W-a_eV4&t=3s)
 - [AWS Madrid Summit 2025 - Construye sin limites gracias a la infraestructura de AWS](https://www.linkedin.com/posts/pablopagani_amazon-web-services-aws-cloud-computing-activity-7331076722143981569-7Php?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADYX-sBn0CvnxHkPQV02p3m5QFlN19Q1oA)
 - [AWS re:Inforce 2023-Executive Security Simulation](https://www.linkedin.com/feed/update/urn:li:activity:7074510984404439040/)
 - [AWS re:Inforce 2022-Building guardrails to meet your custom control requirements](https://d1.awsstatic.com/events/aws-reinforce-2022/GRC471_Building-guardrails-to-meet-your-custom-control-requirements.pdf)
 - [AWS re:Inforce 2021-Building Prowler into a QuickSight powered AWS Security Dashboard](https://catalog.us-east-1.prod.workshops.aws/workshops/b1cdc52b-eb11-44ed-8dc8-9dfe5fb254f5/en-US)
 - [Overview sobre IAM Identity Center y Roles Anywhere](https://www.youtube.com/watch?v=X8zlJ6QiGGQ)
-- [KIRO: Transforma tu flujo de desarrollo: Desarrollo Basado en Especificaciones](https://www.youtube.com/watch?v=PjU0W-a_eV4&t=3s)
 
 *Own Private Code projects*
 - IT Self Service solution (Web) ~500 users

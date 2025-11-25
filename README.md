@@ -35,6 +35,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [AWS re:Inforce 2022-Building guardrails to meet your custom control requirements](https://d1.awsstatic.com/events/aws-reinforce-2022/GRC471_Building-guardrails-to-meet-your-custom-control-requirements.pdf)
 - [AWS re:Inforce 2021-Building Prowler into a QuickSight powered AWS Security Dashboard](https://catalog.us-east-1.prod.workshops.aws/workshops/b1cdc52b-eb11-44ed-8dc8-9dfe5fb254f5/en-US)
 - [Overview sobre IAM Identity Center y Roles Anywhere](https://www.youtube.com/watch?v=X8zlJ6QiGGQ)
+- [KIRO: Transforma tu flujo de desarrollo: Desarrollo Basado en Especificaciones](https://www.youtube.com/watch?v=PjU0W-a_eV4&t=3s)
 
 *Own Private Code projects*
 - IT Self Service solution (Web) ~500 users

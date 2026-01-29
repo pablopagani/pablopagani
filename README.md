@@ -23,7 +23,7 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [AWS Control Design - launched at re:Inforce 2022](https://catalog.workshops.aws/control-design/en-US)
 
 *Simple apps*
-- [Time To Fly - calculator](https://d2shj54vkk2sa3.cloudfront.net/)
+- [Time To Fly](https://d2shj54vkk2sa3.cloudfront.net/)
 - [Math Tris](https://d2atums3wndj16.cloudfront.net/)
   
 *Publications*

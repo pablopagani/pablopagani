@@ -22,6 +22,10 @@ Best practices acquired from projects executed all around the globe. Innovation,
 - [Automating Incident Response Workshop](https://catalog.workshops.aws/auto-incident-response)
 - [AWS Control Design - launched at re:Inforce 2022](https://catalog.workshops.aws/control-design/en-US)
 
+*Simple apps*
+- [Time To Fly - calculator](https://d2shj54vkk2sa3.cloudfront.net/)
+- [Math Tris](https://d2atums3wndj16.cloudfront.net/)
+  
 *Publications*
 - [AWS Security Blog: Download AWS Security Hub CSV report](https://aws.amazon.com/blogs/security/download-aws-security-hub-csv-report/)
 - [AWS Security Blog: Enable Security Hub PCI DSS standard across your organization and disable specific controls](https://aws.amazon.com/blogs/security/enable-security-hub-pci-dss-standard-across-your-organization-and-disable-specific-controls/)
